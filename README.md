@@ -2,7 +2,8 @@
 
 Dart/Flutter Developer from Tyumen, Russia
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+          
 
 <!--
 **theivmatic/theivmatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
