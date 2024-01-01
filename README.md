@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'am Alexandr.
+
+Dart/Flutter Developer from Tyumen, Russia
 
 <!--
 **theivmatic/theivmatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
