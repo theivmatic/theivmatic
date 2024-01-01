@@ -4,7 +4,6 @@ Dart/Flutter Developer from Tyumen, Russia
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
           title='dart' width=40 height=40 />&nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
           title='flutter' width=40 height=40/>&nbsp;
           
